@@ -1,4 +1,4 @@
-module.exports = {
-  title: 'Tartaria',
-  base: '/'
-}
+// module.exports = {
+//   title: 'Tartaria',
+//   base: '/'
+// }
