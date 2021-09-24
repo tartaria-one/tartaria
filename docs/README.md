@@ -1,3 +1,9 @@
-# Tartaria
+---
+home: true
+heroText: null
+tagline: null
+---
 
-test
+# Тартария
+
+[Забытые пословицы и поговорки](/wisdom/README.md)
