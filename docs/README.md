@@ -1,4 +1,5 @@
 ---
+title: Главная
 home: true
 heroText: null
 tagline: null
