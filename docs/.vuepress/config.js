@@ -3,7 +3,7 @@ module.exports = {
   lang: 'ru-RU',
   plugins: [
     [
-      '@vuepress/plugin-search@next'
+      '@vuepress/plugin-search'
     ]
   ]
 }
