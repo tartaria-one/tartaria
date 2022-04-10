@@ -35,6 +35,8 @@ _Примеры:_
 
 [Забытые пословицы и поговорки](/wisdom/README.md)
 
+## [Афоризмы](/aphorisms/README.md)
+
 ## Цитаты
 
 - [Михаил Михайлович Жванецкий](/quotes/mikhail_mikhaylovich_zhvanetsky.md)
