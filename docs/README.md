@@ -7,6 +7,10 @@ tagline: null
 
 # Тартария
 
+## Лекарственные травы России
+- [Спорыш / Горец птичий](/russia_medicinal_herbs/polygonum_aviculare.md)
+- [Весь список](/russia_medicinal_herbs/README.md)
+
 ## Пословицы и поговорки
 - [Пословица ≠ Поговорка](/wisdom/diff.md)
 - [Забытые пословицы и поговорки](/wisdom/README.md)
