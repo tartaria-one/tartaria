@@ -5,7 +5,7 @@ sidebarDepth: 2
 # Спорыш
 > Горец птичий (лат. Polýgonum aviculáre)
 
-![Sporish](/rissia_medicinal_herbs/sporish.png)
+![Polygonum Aviculare](./polygonum_aviculare.png)
 
 Чай из спорыша способствует зачатию, кровоостанавливающие, мочегонное.
 Очищает почки, понижает давление, выводит соли мочевой кислоты и прочее,
