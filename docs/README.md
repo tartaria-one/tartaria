@@ -7,6 +7,9 @@ tagline: null
 
 # Тартария
 
+## Забытые слова
+- [Старые русские слова](/dictionary/russian_old_words.md)
+
 ## Лекарственные травы России
 - [Спорыш / Горец птичий](/russia_medicinal_herbs/polygonum_aviculare.md)
 - [Весь список](/russia_medicinal_herbs/README.md)
