@@ -12,6 +12,7 @@ module.exports = {
         text: 'Забытые слова',
         link: '/dictionary/README.md',
         children: [
+          '/dictionary/abvgd.md',
           '/dictionary/russian_old_words.md',
         ],
       },
