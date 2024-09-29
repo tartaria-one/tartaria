@@ -11,13 +11,10 @@ tagline: null
 - [Древнесловенская (древнерусская) буквица](/dictionary/abvgd.md)
 - [Старые русские слова](/dictionary/russian_old_words.md)
 
-## Лекарственные травы России
-- [Спорыш / Горец птичий](/russia_medicinal_herbs/polygonum_aviculare.md)
-- [Весь список](/russia_medicinal_herbs/README.md)
-
 ## Пословицы и поговорки
 - [Пословица ≠ Поговорка](/wisdom/diff.md)
 - [Забытые пословицы и поговорки](/wisdom/README.md)
+- [Разное](/wisdom/other.md)
 
 ## Афоризмы
 - [Из фильмов](/aphorisms/#из-фильмов)
@@ -31,3 +28,7 @@ tagline: null
 ## Цитаты
 
 - [Михаил Михайлович Жванецкий](/quotes/mikhail_mikhaylovich_zhvanetsky.md)
+
+## Лекарственные травы России
+- [Спорыш / Горец птичий](/russia_medicinal_herbs/polygonum_aviculare.md)
+- [Весь список](/russia_medicinal_herbs/README.md)

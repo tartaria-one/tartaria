@@ -26,6 +26,9 @@ module.exports = {
       {
         text: 'Пословицы и поговорки',
         link: '/wisdom/README.md',
+        children: [
+          '/wisdom/other.md',
+        ],
       },
       {
         text: 'Афоризмы',
