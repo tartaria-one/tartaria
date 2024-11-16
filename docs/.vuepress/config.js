@@ -9,6 +9,13 @@ module.exports = {
   themeConfig: {
     sidebar: [
       {
+        text: 'Сбой в фантазиях',
+        link: '/broken_fantasies/README.md',
+        children: [
+          '/broken_fantasies/war_horses.md',
+        ],
+      },
+      {
         text: 'Забытые слова',
         link: '/dictionary/README.md',
         children: [
