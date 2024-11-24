@@ -12,6 +12,7 @@ module.exports = {
         text: 'Сбой в фантазиях',
         link: '/broken_fantasies/README.md',
         children: [
+          '/broken_fantasies/no_tartaria.md',
           '/broken_fantasies/war_horses.md',
         ],
       },
