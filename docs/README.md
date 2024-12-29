@@ -25,7 +25,6 @@ tagline: null
 - [Разное](/wisdom/other.md)
 
 ## Афоризмы
-- [Лев Николаевич Толстой](/aphorisms/#лев-николаевич-толстой)
 - [Самуил Яковлевич Маршак](/aphorisms/#самуил-яковлевич-маршак)
 - [Станислав Ежи Лец](/aphorisms/#станислав-ежи-лец)
 - [Татьяна](/aphorisms/#татьяна)
@@ -38,6 +37,7 @@ tagline: null
 
 ## Цитаты
 
+- [Лев Николаевич Толстой](/quotes/lev_nikolayevich_tolstoy.md)
 - [Михаил Михайлович Жванецкий](/quotes/mikhail_mikhaylovich_zhvanetsky.md)
 
 ## Лекарственные травы России

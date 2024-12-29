@@ -44,7 +44,10 @@ module.exports = {
       },
       {
         text: 'Цитаты',
-        link: '/quotes/mikhail_mikhaylovich_zhvanetsky.md',
+        children: [
+          '/quotes/lev_nikolayevich_tolstoy.md',
+          '/quotes/mikhail_mikhaylovich_zhvanetsky.md',
+        ]
       },
     ],
   }
