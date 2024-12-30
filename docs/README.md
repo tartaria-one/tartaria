@@ -38,6 +38,7 @@ tagline: null
 ## Цитаты
 
 - [Лев Николаевич Толстой](/quotes/lev_nikolayevich_tolstoy.md)
+- [Марк Твен](/quotes/mark_twain.md)
 - [Михаил Михайлович Жванецкий](/quotes/mikhail_mikhaylovich_zhvanetsky.md)
 - [Оноре де Бальзак](/quotes/honore_de_balzac.md)
 
