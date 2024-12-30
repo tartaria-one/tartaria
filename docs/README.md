@@ -39,6 +39,7 @@ tagline: null
 
 - [Лев Николаевич Толстой](/quotes/lev_nikolayevich_tolstoy.md)
 - [Михаил Михайлович Жванецкий](/quotes/mikhail_mikhaylovich_zhvanetsky.md)
+- [Оноре де Бальзак](/quotes/honore_de_balzac.md)
 
 ## Лекарственные травы России
 - [Спорыш / Горец птичий](/russia_medicinal_herbs/polygonum_aviculare.md)
