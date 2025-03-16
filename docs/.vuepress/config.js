@@ -6,6 +6,15 @@ import { viteBundler } from '@vuepress/bundler-vite'
 export default defineUserConfig({
   bundler: viteBundler(),
   theme: defaultTheme({
+    locales: {
+      '/': {
+        selectLanguageName: 'Русский',
+        lastUpdatedText: 'Последнее обновление',
+        next: 'Вперёд',
+        prev: 'Назад',
+        contributorsText: 'Авторы',
+      },
+    },
     sidebar: [
       {
         text: 'Сбой в фантазиях',
