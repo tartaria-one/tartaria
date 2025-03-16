@@ -1,12 +1,11 @@
-module.exports = {
-  title: 'Тартария',
-  lang: 'ru-RU',
-  plugins: [
-    [
-      '@vuepress/plugin-search'
-    ]
-  ],
-  themeConfig: {
+import { defaultTheme } from '@vuepress/theme-default'
+import { defineUserConfig } from 'vuepress'
+import { searchPlugin } from '@vuepress/plugin-search'
+import { viteBundler } from '@vuepress/bundler-vite'
+
+export default defineUserConfig({
+  bundler: viteBundler(),
+  theme: defaultTheme({
     sidebar: [
       {
         text: 'Сбой в фантазиях',
@@ -53,6 +52,12 @@ module.exports = {
         ]
       },
     ],
-  }
-
-}
+  }),
+  title: 'Тартария',
+  lang: 'ru-RU',
+  plugins: [
+    searchPlugin({
+      // options
+    }),
+  ],
+});
