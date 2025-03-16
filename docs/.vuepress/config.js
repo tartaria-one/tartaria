@@ -45,6 +45,7 @@ module.exports = {
       {
         text: 'Цитаты',
         children: [
+          '/quotes/james_branch_cabell.md',
           '/quotes/lev_nikolayevich_tolstoy.md',
           '/quotes/mark_twain.md',
           '/quotes/mikhail_mikhaylovich_zhvanetsky.md',

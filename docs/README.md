@@ -37,6 +37,7 @@ tagline: null
 
 ## Цитаты
 
+- [Джеймс Кейбелл](/quotes/james_branch_cabell.md)
 - [Лев Николаевич Толстой](/quotes/lev_nikolayevich_tolstoy.md)
 - [Марк Твен](/quotes/mark_twain.md)
 - [Михаил Михайлович Жванецкий](/quotes/mikhail_mikhaylovich_zhvanetsky.md)
