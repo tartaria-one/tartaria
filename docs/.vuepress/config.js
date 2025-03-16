@@ -57,7 +57,11 @@ export default defineUserConfig({
   lang: 'ru-RU',
   plugins: [
     searchPlugin({
-      // options
+      locales: {
+        '/': {
+          placeholder: '',
+        },
+      },
     }),
   ],
 });
