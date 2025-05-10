@@ -15,6 +15,12 @@ export default defineUserConfig({
         contributorsText: 'Авторы',
       },
     },
+    // navbar: [
+    //   {
+    //     text: 'Забытые слова',
+    //     link: '/',
+    //   },
+    // ],
     sidebar: [
       {
         text: 'Сбой в фантазиях',
