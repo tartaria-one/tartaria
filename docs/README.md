@@ -18,6 +18,7 @@ tagline: null
 ## Забытые слова
 - [Древнесловенская (древнерусская) буквица](/dictionary/abvgd.md)
 - [Старые русские слова](/dictionary/russian_old_words.md)
+- [Истинное значение слов](/dictionary/istina_slov.md)
 
 ## Пословицы и поговорки
 - [Пословица ≠ Поговорка](/wisdom/diff.md)
