@@ -36,6 +36,7 @@ export default defineUserConfig({
         children: [
           '/dictionary/abvgd.md',
           '/dictionary/russian_old_words.md',
+          '/dictionary/istina_slov.md',
         ],
       },
       {
